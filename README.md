@@ -1,4 +1,8 @@
-# Fullstack Example with Next.js (REST API)
+# Prisma Fullstack Example with Next.js (REST API)
+
+https://github.com/prisma/prisma-examples/tree/latest/typescript/rest-nextjs-api-routes
+
+https://github.com/coding-to-music/rest-nextjs-api-routes
 
 This example shows how to implement a **fullstack app in TypeScript with [Next.js](https://nextjs.org/)** using [React](https://reactjs.org/) (frontend), [Express](https://expressjs.com/) and [Prisma Client](https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-client) (backend). It uses a SQLite database file with some initial dummy data which you can find at [`./prisma/dev.db`](./prisma/dev.db).
 
